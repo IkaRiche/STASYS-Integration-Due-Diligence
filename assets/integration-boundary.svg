@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="342" viewBox="0 0 1440 342" role="img" aria-labelledby="t d">
+<title id="t">STASYS mission-conduct integration boundary</title>
+<desc id="d">Candidate data flow from existing onboard observations to a non-actuating STASYS mission core, existing safety authority and controller, with independently observed feedback.</desc>
+<defs>
+<linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1925"/><stop offset="1" stop-color="#142A35"/></linearGradient>
+<linearGradient id="m" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#123D43"/><stop offset="1" stop-color="#1F5150"/></linearGradient>
+<marker id="a" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#72CFC9"/></marker>
+</defs>
+<rect width="1440" height="342" rx="20" fill="url(#b)"/>
+<text x="52" y="43" fill="#A0B6BE" font-size="15" font-family="Arial,Helvetica,sans-serif" font-weight="700" letter-spacing="2.8">CANDIDATE RESPONSIBILITY BOUNDARY</text>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="52" y="89" rx="13" width="285" height="114" fill="#162B37" stroke="#36515D" stroke-width="1.5"/>
+<text x="75" y="123" fill="#7DE4D6" font-size="14" font-weight="700" letter-spacing="1.4">01  EXISTING PLATFORM</text>
+<text x="75" y="151" fill="#F1FBFA" font-size="20" font-weight="700">Observations</text>
+<text x="75" y="177" fill="#AEC4CA" font-size="14">Sensing / localization / quality</text>
+<rect x="399" y="89" rx="13" width="285" height="114" fill="url(#m)" stroke="#79DCD2" stroke-width="2"/>
+<text x="423" y="123" fill="#A2FFF0" font-size="14" font-weight="700" letter-spacing="1.4">02  STASYS TMC</text>
+<text x="423" y="151" fill="#FFFFFF" font-size="21" font-weight="700">Mission conduct</text>
+<text x="423" y="177" fill="#D1E5E4" font-size="14">Bounded, non-actuating intent</text>
+<rect x="747" y="89" rx="13" width="285" height="114" fill="#162B37" stroke="#36515D" stroke-width="1.5"/>
+<text x="771" y="123" fill="#7DE4D6" font-size="14" font-weight="700" letter-spacing="1.4">03  EXISTING AUTHORITY</text>
+<text x="771" y="151" fill="#F1FBFA" font-size="20" font-weight="700">Safety and permission</text>
+<text x="771" y="177" fill="#AEC4CA" font-size="14">Independent decision to execute</text>
+<rect x="1094" y="89" rx="13" width="294" height="114" fill="#162B37" stroke="#36515D" stroke-width="1.5"/>
+<text x="1118" y="123" fill="#7DE4D6" font-size="14" font-weight="700" letter-spacing="1.4">04  EXISTING CONTROLLER</text>
+<text x="1118" y="151" fill="#F1FBFA" font-size="20" font-weight="700">Physical execution</text>
+<text x="1118" y="177" fill="#AEC4CA" font-size="14">Autopilot / robotics controller</text>
+</g>
+<g fill="none" stroke="#72CFC9" stroke-width="2" marker-end="url(#a)"><path d="M342 145h48"/><path d="M689 145h49"/><path d="M1037 145h49"/></g>
+<path d="M1241 208v56H194v-56" fill="none" stroke="#709EA7" stroke-width="2" stroke-dasharray="8 7"/>
+<path d="M194 224l-5-11h10Z" fill="#709EA7"/>
+<rect x="517" y="248" width="393" height="32" rx="16" fill="#1E3943"/>
+<text x="714" y="270" text-anchor="middle" font-size="14" font-weight="700" fill="#C0DBDF" font-family="Arial,Helvetica,sans-serif" letter-spacing=".8">INDEPENDENTLY OBSERVED OUTCOME FEEDBACK</text>
+<text x="52" y="315" fill="#829FAB" font-size="14" font-family="Arial,Helvetica,sans-serif">Interface categories for assessment only — not a published transport, deployed system or flight qualification.</text>
+</svg>
