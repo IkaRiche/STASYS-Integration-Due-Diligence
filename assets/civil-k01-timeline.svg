@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="250" viewBox="0 0 1440 250" role="img" aria-labelledby="t d">
+<title id="t">Civil K-01 requirements timeline</title>
+<desc id="d">Six phases spanning 25 minutes, with five evaluation windows, presented as a schematic requirements overview rather than a validated flight trace.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1B26"/><stop offset="1" stop-color="#17303A"/></linearGradient></defs>
+<rect width="1440" height="250" rx="20" fill="url(#bg)"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="43" y="43" font-size="16" font-weight="700" letter-spacing="2.2" fill="#82E6D8">CIVIL K-01</text>
+<text x="240" y="43" font-size="16" fill="#C2D9D9">25-MINUTE REQUIREMENTS HORIZON</text>
+<text x="1387" y="43" text-anchor="end" font-size="15" fill="#8BB4B7">6 PHASES  /  5 REVIEW WINDOWS</text>
+</g>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="42" y="74" width="216" height="112" rx="12" fill="#1B3943" stroke="#345A62"/>
+<rect x="268" y="74" width="216" height="112" rx="12" fill="#173D45" stroke="#345A62"/>
+<rect x="494" y="74" width="216" height="112" rx="12" fill="#214B50" stroke="#477D79"/>
+<rect x="720" y="74" width="216" height="112" rx="12" fill="#173D45" stroke="#345A62"/>
+<rect x="946" y="74" width="216" height="112" rx="12" fill="#214B50" stroke="#477D79"/>
+<rect x="1172" y="74" width="216" height="112" rx="12" fill="#1B3943" stroke="#345A62"/>
+<g fill="#8FEFDD" font-size="14" font-weight="700">
+<text x="59" y="105">00 · 00–01 MIN</text><text x="285" y="105">01 · 01–03 MIN</text><text x="511" y="105">02 · 03–08 MIN</text><text x="737" y="105">03 · 08–11 MIN</text><text x="963" y="105">04 · 11–21 MIN</text><text x="1189" y="105">05 · 21–25 MIN</text>
+</g>
+<g fill="#F0F7F6" font-size="19" font-weight="700">
+<text x="59" y="144">Preparation</text><text x="285" y="144">Departure</text><text x="511" y="144">Degradation</text><text x="737" y="144">Obstacle event</text><text x="963" y="144">Service window</text><text x="1189" y="144">Return / close</text>
+</g>
+<g fill="#B6CDD0" font-size="12.5">
+<text x="59" y="169">Airframe / checks</text><text x="285" y="169">Authorized flight</text><text x="511" y="169">GNSS / link context</text><text x="737" y="169">Observed constraints</text><text x="963" y="169">Independent feedback</text><text x="1189" y="169">Verified outcome</text>
+</g>
+<text x="43" y="223" fill="#879FA9" font-size="14">Schematic phases, not time-proportional. Visualization is not evidence of completed physical flight.</text>
+</g>
+</svg>
