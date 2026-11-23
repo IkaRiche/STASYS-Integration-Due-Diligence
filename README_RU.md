@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/stasys-hero.svg" alt="STASYS — технический пакет для интеграторов" width="100%"></p>
+<p align="center"><img src="assets/stasysos-logo-official.png" alt="Официальный логотип STASYSOS — серебристая эмблема и название" width="700"></p>
 
 <p align="center"><strong>STASYS · БОРТОВАЯ НЕПРЕРЫВНОСТЬ МИССИИ · ТЕХНИЧЕСКАЯ ИНТЕГРАЦИЯ</strong></p>
 <p align="center"><a href="README.md">English</a> · <a href="docs/CIVIL_K01_PRE_READ.md">Civil K-01</a> · <a href="docs/INTEGRATION_INTERFACE.md">Интерфейсы</a> · <a href="docs/ENGINEERING_FAQ.md">FAQ</a></p>

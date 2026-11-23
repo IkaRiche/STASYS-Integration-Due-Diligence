@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/stasys-hero.svg" alt="STASYS — Onboard Mission Continuity | Technical Integration 2026" width="100%"></p>
+<p align="center"><img src="assets/stasysos-logo-official.png" alt="STASYSOS — official silver hexagonal circuit emblem and wordmark" width="700"></p>
 
 <p align="center">
   <strong>PROPRIETARY ONBOARD AUTONOMY · ENGINEERING INTEGRATION BRIEF</strong>
