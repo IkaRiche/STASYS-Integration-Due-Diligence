@@ -5,6 +5,14 @@
 </p>
 
 <p align="center">
+  <a href="docs/INTEGRATOR_DECISION_BRIEF.md">One-page technical brief</a> ·
+  <a href="docs/COMPUTATIONAL_PRINCIPLES.md">How the mathematics works</a> ·
+  <a href="docs/EXTERNAL_INTERFACE_CONTRACT.md">Inputs / outputs</a> ·
+  <a href="docs/INTEGRATED_EVIDENCE_MATRIX.md">Evidence</a> ·
+  <a href="docs/BLACKBOX_EVALUATION_PROTOCOL.md">Black-box evaluation</a>
+</p>
+
+<p align="center">
   <a href="README_RU.md">Русская версия</a> ·
   <a href="docs/CIVIL_K01_PRE_READ.md">Civil K-01</a> ·
   <a href="docs/INTEGRATION_INTERFACE.md">Interface</a> ·
@@ -17,6 +25,12 @@
 <p align="center">
   <a href="https://github.com/IkaRiche/STASYS-Integration-Due-Diligence/actions/workflows/validate.yml"><img src="https://github.com/IkaRiche/STASYS-Integration-Due-Diligence/actions/workflows/validate.yml/badge.svg" alt="Documentation integrity workflow"></a>
 </p>
+
+## Integration decision in one page
+
+**[Read the STASYS integrator technical brief →](docs/INTEGRATOR_DECISION_BRIEF.md)**
+
+It answers **what mathematical approach is being evaluated, which data categories go in and out, what can be demonstrated now, and how to run a protected technical assessment**.
 
 ## One integrated autonomy system. Five measurable outcomes.
 
@@ -117,6 +131,16 @@ The diagram illustrates **the mission-conduct seam only**, not the complete Morp
 </td>
 </tr>
 </table>
+
+## Mechanism, interfaces and evaluation
+
+| Engineering question | Open answer |
+|:--|:--|
+| Which computation, if not ML/LLM? | [Computational principles: mathematical abstraction and causal mechanism](docs/COMPUTATIONAL_PRINCIPLES.md) |
+| What data enters / leaves the black box? | [External interface contract: candidate typed inputs, outputs, invalid-data rules](docs/EXTERNAL_INTERFACE_CONTRACT.md) |
+| Where are the tested results? | [Integrated evidence matrix: hardware, digital and research scopes](docs/INTEGRATED_EVIDENCE_MATRIX.md) |
+| Can engineers challenge a live closed build? | [Black-box evaluation protocol: proposed owner-operated review, controls, baseline](docs/BLACKBOX_EVALUATION_PROTOCOL.md) |
+| Which materials remain proprietary? | [Evidence access and IP policy](docs/EVIDENCE_ACCESS_AND_IP.md) |
 
 ## Public evidence
 
