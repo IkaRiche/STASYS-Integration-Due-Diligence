@@ -1,7 +1,19 @@
 <p align="center"><img src="assets/stasysos-logo-official.png" alt="Официальный логотип STASYSOS — серебристая эмблема и название" width="700"></p>
 
 <p align="center"><strong>STASYS · БОРТОВАЯ НЕПРЕРЫВНОСТЬ МИССИИ · ТЕХНИЧЕСКАЯ ИНТЕГРАЦИЯ</strong></p>
+<p align="center">
+<a href="docs/INTEGRATOR_DECISION_BRIEF.md">Краткий инженерный обзор</a> ·
+<a href="docs/COMPUTATIONAL_PRINCIPLES.md">Математика LMA</a> ·
+<a href="docs/EXTERNAL_INTERFACE_CONTRACT.md">Входы / выходы</a> ·
+<a href="docs/INTEGRATED_EVIDENCE_MATRIX.md">Доказательства</a> ·
+<a href="docs/BLACKBOX_EVALUATION_PROTOCOL.md">Закрытое тестирование</a>
+</p>
+
 <p align="center"><a href="README.md">English</a> · <a href="docs/CIVIL_K01_PRE_READ.md">Civil K-01</a> · <a href="docs/INTEGRATION_INTERFACE.md">Интерфейсы</a> · <a href="docs/ENGINEERING_FAQ.md">FAQ</a></p>
+
+## Инженерный пакет для предметной экспертизы
+
+**[Открыть единый обзор STASYS для интегратора (EN)](docs/INTEGRATOR_DECISION_BRIEF.md).** В нём сформулированы требования заказчика, математический принцип, типы входных и выходных данных, уже существующие доказательства и условия проверки закрытого ядра.
 
 ## Одна система для пяти задач интегратора
 
@@ -50,6 +62,14 @@ STASYS разрабатывает проприетарные детермини�
 | Допуск и ограничения безопасности | Независимый контур платформы |
 | Физическое исполнение | Штатный контроллер |
 | Подтверждение результата | Независимая обратная связь |
+
+## Ответы программистам: без раскрытия реализации
+
+- [Как устроен вычислительный принцип LMA](docs/COMPUTATIONAL_PRINCIPLES.md) — публичная математическая абстракция, не операторы изобретения.
+- [Какие данные нужны на входе и выходе](docs/EXTERNAL_INTERFACE_CONTRACT.md) — предлагаемый семантический интерфейс, не выпущенный протокол.
+- [Что подтверждено испытаниями](docs/INTEGRATED_EVIDENCE_MATRIX.md) — включая аппаратный DRC и цифровую Вуаль.
+- [Как проверить реальную работу закрытого ядра](docs/BLACKBOX_EVALUATION_PROTOCOL.md) — условия честного контролируемого испытания; сервис пока не развёрнут.
+- [Условия доступа к доказательствам и IP](docs/EVIDENCE_ACCESS_AND_IP.md).
 
 ## Документы для технической команды
 
