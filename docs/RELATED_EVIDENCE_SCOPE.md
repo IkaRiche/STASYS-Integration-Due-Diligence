@@ -1,14 +1,34 @@
-# Related evidence tracks
+# Integrated autonomy — evidence scope by buyer outcome
 
-These entries define where the civilian TMC evidence ends. Neither the digital-session count nor the STM32 timing result transfers to another track.
+The commercial question is **whole-system usefulness and resource savings**, not separate component sales. Existing source-owned research evidence is retained in its original owners. It cannot be added together to manufacture an end-to-end integrated PASS.
 
-## Guardian Veil
+The public evidence below is an **external-function summary**: no source code, internal composition, algorithmic state or low-level control law is disclosed. Neither the 1,501-record TMC session nor an STM32 decision timing automatically transfers to any other component.
 
-Separate evidence track, outside the scope of this civilian integration packet. This package makes no claim about its operational protection, hardware qualification, deployment readiness or timing.
+## Guardian Veil — leaderless protective cooperation
 
-## Morphic Vision
+**Evidence:** a frozen, scoped digital line establishes locally produced causal cooperative behavior, measured benefit in its tested environment, held-out checks and resilience within a limited fault family. A separate bounded model-level experiment established a causal local functional cooperation loop in its exact fixture.
 
-Separate perception evidence track. This packet contains no independently validated public evidence for civilian perception accuracy, latency or flight qualification. Assumed sensor inputs in a test fixture do not validate a perception subsystem.
+**Required invariant:** no centrally selected decision, elected master, global task allocator or host-fabricated local decision may be credited to the system.
+
+**Not yet demonstrated:** generalized physical multi-vehicle deployment, real-world environmental protection, field effectiveness or verified advantage over the integrator's incumbent stack. A successful single digital fixture is not equivalent to independent physical replication.
+
+## Morphic Vision — onboard perception
+
+**Evidence:** scoped digital local-observation and degradation/replay tests exist, including occlusion controls, local-only admission and deterministic trace changes.
+
+**Not yet demonstrated:** elimination of an external detector or sensor-primitive producer on real camera data, a qualified object-tracking product, physical sensor accuracy or complete system power/latency savings. A synthetic perception input is not a substitute for physical sensor validation.
+
+## Morphic AI — adaptive decision capability
+
+**Evidence:** scoped acquired-morphology and causally conditioned digital behavior. Full functional Original80 3D composition and a generally useful autonomous decision product remain separately unqualified. Distinct implementation abstractions must not be presented as theory-equivalent without proof.
+
+## DRC — embedded authority and continuity
+
+**Evidence:** physically measured embedded command-path handling exists on STM32 with real Matek/ArduPilot UART/MAVLink input, scoped physical forwarding and denial checks, watchdog/recovery and supervised reconnection tests. Resource and timing figures are **bench- and configuration-specific**. No claim of certified platform safety or a physically integrated all-component autonomy computer follows.
+
+## Forensic replay
+
+**Evidence:** separate deterministic replay and trace-parity tooling exists in StasysOS and source-owned research lines. **Not yet demonstrated:** complete cross-module post-flight decision-cause reconstruction on the integrator's platform; same trace hash alone is not a human causal explanation.
 
 ## DRC Last Known Good (LKG)
 
