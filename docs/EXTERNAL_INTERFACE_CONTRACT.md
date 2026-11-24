@@ -68,7 +68,7 @@ build_commitment     owner-held build identifier / digest
 integrity            externally verifiable record-chain digest (proposed)
 ```
 
-This is an **auditable evidence-envelope proposal**, not a normative live message definition. It must not be mistaken for internal state, Morphic Memory or a certified post-flight recorder.
+This is an **auditable evidence-envelope proposal**, not a normative live message definition. It must not be mistaken for a disclosure of internal computational state or a certified post-flight recorder.
 
 ## 5. Uncertainty, timing and fault rules
 
