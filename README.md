@@ -38,24 +38,22 @@ The **cross-cutting buyer criterion** is whole-system reduction in mass, watts, 
 
 Guardian Veil has a **scoped, frozen positive digital evidence line** for causal local cooperation, relational protective behavior, held-out efficacy and tested fault resilience. A later bounded digital/physical-model result supports functionally distinct local participants cooperating without a central result-selection channel. These results do **not** establish an integrated multi-aircraft hardware system, general environmental protection or operational effectiveness. [Evidence boundaries](docs/RELATED_EVIDENCE_SCOPE.md).
 
-### Existing subsystem evidence supports — but does not certify — the system
+### Existing component evidence supports — but does not certify — the system
 
-
-
-STASYS develops proprietary deterministic computing technology for resource-constrained autonomous systems. The proposed integration allows a mission core to receive admitted operational context, retain an assigned objective and form bounded mission-intent proposals, while the platform's own controller remains responsible for motion, authorization and safety.
+STASYS develops proprietary deterministic computing technologies for resource-constrained autonomous systems. The existing evidence base spans bounded mission-conduct experiments, digital perception and adaptive behavior, physical embedded command-gate testing and scoped digital leaderless protective cooperation. Their joint integration and complete cost/weight/power advantage are **not yet established**.
 
 This is a **technical pre-read for system integrators**, not an offer of source code or a claim of a certified, flight-ready product. External interfaces and observable acceptance criteria are available for discussion; the internal computation remains proprietary.
 
 <table>
 <tr>
 <td width="33%" valign="top">
-<strong>01 · Mission continuity</strong><p>Retain the assigned objective and evaluate permissible continuation when conditions change.</p>
+<strong>01 · Resource consolidation</strong><p>Compare complete platform mass, watts, RAM, latency and equipment count at equivalent functional quality.</p>
 </td>
 <td width="33%" valign="top">
-<strong>02 · Existing platform preserved</strong><p>Keep sensing, navigation, stabilization, execution and independent safety authority in the incumbent stack.</p>
+<strong>02 · Independent authority</strong><p>Preserve the incumbent flight controller and safety boundary while evaluating a smaller computing configuration.</p>
 </td>
 <td width="33%" valign="top">
-<strong>03 · Verifiable evaluation</strong><p>Start with a non-actuating, bounded test using real interface assumptions and independent outcome feedback.</p>
+<strong>03 · Reproducible comparison</strong><p>Demonstrate observable behavior and independently measured outcomes without publishing implementation details.</p>
 </td>
 </tr>
 </table>
@@ -128,7 +126,7 @@ The diagram illustrates **the mission-conduct seam only**, not the complete Morp
 
 ## The next technical decision
 
-For the existing Civil K-01 scenario, the practical objective is to agree on **one authentic observation-to-intent-to-feedback seam** in the partner's present platform. An initial shadow-mode comparison can then measure a STASYS candidate against an equal-information existing mission executive without transferring execution authority.
+The practical objective is to agree on a **whole-system evaluation specification** for the integrator's five stated outcomes and a comparable existing-stack baseline. Civil K-01 is one bounded scenario, and the digital Guardian Veil evidence is another separate evaluation line. First validate a non-actuating, independently observable interface and resource budget; do not silently treat these different research results as a verified single deployment.
 
 Selected software and embedded-control mechanisms have controlled laboratory evidence. **Platform-specific compatibility and complete mission-level field qualification remain separate acceptance requirements.** This public package provides no proprietary implementation, unrestricted test image, patent license or commercial terms.
 
