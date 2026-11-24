@@ -1,5 +1,7 @@
 # Evidence status, qualification and information access
 
+**The commercial goal is a whole-system integration evaluation.** The currently accepted TMC, DRC, Morphic Vision, Morphic AI and Guardian Veil results come from separate source-owned configurations. They do not constitute a verified single deployed autonomy product. See the [integrated evidence matrix](INTEGRATED_EVIDENCE_MATRIX.md), [proposed external contract](EXTERNAL_INTERFACE_CONTRACT.md) and [owner-controlled test protocol](BLACKBOX_EVALUATION_PROTOCOL.md).
+
 This is a **controlled public integration overview**, not an independent scientific proof repository, a certified safety manual or a product release.
 
 **Documented scope:** externally described deterministic mission-conduct and runtime-assurance mechanisms have controlled laboratory research. Demonstrated scope depends on its individual test configuration. A requirements visualization is not equivalent to a complete validated onboard mission.
