@@ -9,6 +9,8 @@
   <a href="docs/CIVIL_K01_PRE_READ.md">Civil K-01</a> ·
   <a href="docs/INTEGRATION_INTERFACE.md">Interface</a> ·
   <a href="docs/ENGINEERING_FAQ.md">Engineering FAQ</a> ·
+  <a href="docs/MISSION_CONDUCT_EVIDENCE.md">Mission evidence</a> ·
+  <a href="docs/TIMING_EVIDENCE.md">Timing</a> ·
   <a href="docs/STATUS_AND_DISCLOSURE.md">Qualification</a>
 </p>
 
@@ -95,6 +97,12 @@ The diagram is a **candidate responsibility model**, not an implemented data pro
 </td>
 </tr>
 </table>
+
+## Public evidence
+
+- [Mission conduct evidence](docs/MISSION_CONDUCT_EVIDENCE.md): what was observed in one continuous digital session, how the legacy offline corpus differs, and what remains unmeasured.
+- [Timing evidence](docs/TIMING_EVIDENCE.md): what the STM32 bench measured and why that result is not an end-to-end latency claim.
+- [Related tracks](docs/RELATED_EVIDENCE_SCOPE.md): separate evidence boundaries for Guardian Veil, Morphic Vision and DRC Last Known Good.
 
 ## The next technical decision
 

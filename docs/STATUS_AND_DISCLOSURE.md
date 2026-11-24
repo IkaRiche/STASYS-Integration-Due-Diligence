@@ -8,6 +8,8 @@ This is a **controlled public integration overview**, not an independent scienti
 
 This distinction is necessary for reliable procurement decisions. It does not authorize or imply claims about operational readiness or certification.
 
+For the numerical scope of the public evidence, see [mission conduct](MISSION_CONDUCT_EVIDENCE.md) and [timing](TIMING_EVIDENCE.md). [Related evidence tracks](RELATED_EVIDENCE_SCOPE.md) are assessed separately. Historical offline replays are not current TMC-run missions; a local compute measurement is not a platform latency measurement.
+
 ## Proprietary boundary
 
 Internal computation topology, program structure, source code, algorithmic implementation, experimental datasets, detailed architectural composition and hardware pin-level integration remain outside this public package. Selected owner-operated demonstrations and external acceptance tests may be discussed independently of access to these materials.
