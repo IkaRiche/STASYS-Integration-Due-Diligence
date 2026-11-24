@@ -36,6 +36,9 @@ STASYS разрабатывает проприетарные детермини�
 - [Civil K-01 — исходный сценарий и границы демонстрации](docs/CIVIL_K01_PRE_READ.md)
 - [Integration Interface — входы, выходы и полномочия](docs/INTEGRATION_INTERFACE.md)
 - [Engineering FAQ — ответы программистам и требования к платформе](docs/ENGINEERING_FAQ.md)
+- [Доказательства ведения миссии (EN)](docs/MISSION_CONDUCT_EVIDENCE.md) — 1 501 запись одного цифрового сеанса, отдельно от исторических офлайн-прогонов и сравнительной эффективности.
+- [Замеры задержки (EN)](docs/TIMING_EVIDENCE.md) — около 12,5 мкс за измеренный пересчёт на STM32, не за полный цикл.
+- [Границы смежных направлений (EN)](docs/RELATED_EVIDENCE_SCOPE.md) — Guardian Veil, Morphic Vision и DRC Last Known Good.
 - [Status & Disclosure — статус испытаний и границы раскрытия](docs/STATUS_AND_DISCLOSURE.md)
 - [Права и ограничения](LEGAL.md)
 

@@ -33,4 +33,4 @@ Available demonstrations may be shown by the rights holder in a controlled revie
 
 **Goal of the meeting:** an interface fit/no-fit decision and the next authorized bench acceptance criterion, not general product discovery or an implied field-deployment commitment.
 
-[Interface](INTEGRATION_INTERFACE.md) · [Engineering FAQ](ENGINEERING_FAQ.md)
+[Interface](INTEGRATION_INTERFACE.md) · [Engineering FAQ](ENGINEERING_FAQ.md) · [Mission conduct evidence](MISSION_CONDUCT_EVIDENCE.md) · [Timing evidence](TIMING_EVIDENCE.md)
