@@ -1,4 +1,6 @@
-# Proposed integration boundary — proprietary black-box component
+# Proposed integration boundary — mission-conduct seam
+
+> This document describes **only one functional seam**, not the complete integrated autonomy system. For the broader public **candidate** input/output boundary, start with [External Interface Contract](EXTERNAL_INTERFACE_CONTRACT.md). For the five buyer outcomes, see [Integrator Decision Brief](INTEGRATOR_DECISION_BRIEF.md).
 
 This is a functional **contract proposal**, not a published ABI, driver, message schema or production integration specification.
 
