@@ -1,6 +1,6 @@
 # Civil K-01 — Predefined civilian mission integration case
 
-**Purpose:** map an already-specified 25-minute civil autonomy scenario onto the integrator's actual platform and independently verify one feasible mission-continuity function.
+**Purpose:** map an already-specified 25-minute civil autonomy scenario onto the integrator's actual platform and independently verify one feasible mission-continuity function. Civil K-01 is **one part** of a broader integrated autonomy evaluation; it is not evidence of validated sensor-suite replacement, full offline flight forensics or leaderless physical multi-vehicle protection.
 
 ## Requirement outline
 
